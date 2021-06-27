@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hà
-- 👀 I’m interested in 1st:Flutter 2nd:Golang
+- 👀 I’m interested in 1st:Flutter/SwiftUI 2nd:Golang 3rd:Python
 - 🌱 I’m currently doing Flutter
 - 💞️ I’m looking to collaborate on making beautiful and high performance mobile apps
 - 📫 How to reach me hhnvenom@gmail.com or ha@laiup.co
